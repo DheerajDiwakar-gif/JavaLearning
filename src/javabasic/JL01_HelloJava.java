@@ -2,16 +2,16 @@ package javabasic;
 
 public class JL01_HelloJava {
     public static void main(String[] args) {
-        //System.out.println("Hello World");
+        System.out.println("Hello World");
 
         //Output-Hello World
 
-//        System.out.println("My name is Dheeraj Diwakar");
-//        //Output-My name is Dheeraj Diwakar
-//        System.out.println("   *");
-//        System.out.println("  **");
-//        System.out.println(" ***");
-//        System.out.println("****");
+        System.out.println("My name is Dheeraj Diwakar");
+        //Output-My name is Dheeraj Diwakar
+        System.out.println("   *");
+        System.out.println("  **");
+        System.out.println(" ***");
+        System.out.println("****");
 //   *
 //  **
 // ***
