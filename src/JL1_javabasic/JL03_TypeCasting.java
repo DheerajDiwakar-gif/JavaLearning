@@ -1,6 +1,4 @@
-package javabasic;
-
-import java.lang.ref.Reference;
+package JL1_javabasic;
 
 public class JL03_TypeCasting {
     //primitive casting  a)Widening b)Narrowing

@@ -1,4 +1,4 @@
-package javabasic;
+package JL1_javabasic;
 import java.util.Scanner;
 class arithmaticOperators{
     void arithmatic(int a, int b) {

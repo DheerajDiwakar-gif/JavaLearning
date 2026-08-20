@@ -1,4 +1,4 @@
-package javabasic;
+package JL1_javabasic;
 class local_var{
     int n=4;
     void show(){

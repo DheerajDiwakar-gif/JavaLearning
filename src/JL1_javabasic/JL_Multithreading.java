@@ -1,4 +1,4 @@
-package javabasic;
+package JL1_javabasic;
 
 class Dheeraj  extends Thread{
     public void run (){

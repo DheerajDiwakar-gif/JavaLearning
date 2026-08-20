@@ -1,4 +1,4 @@
-package javabasic;
+package JL1_javabasic;
 
 public class addition {
     static void main() {
