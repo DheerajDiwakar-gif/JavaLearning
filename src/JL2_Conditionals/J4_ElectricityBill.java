@@ -2,7 +2,7 @@ package JL2_Condtionals;
 
 import java.util.Scanner;
 
-public class J2_ElectricityBill {
+public class J4_ElectricityBill {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double bill = 0;
