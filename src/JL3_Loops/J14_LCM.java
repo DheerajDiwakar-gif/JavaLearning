@@ -17,5 +17,14 @@ public class J14_LCM {
         int LCM = (m)/num1;//here num1 is last second remainder before 0
         System.out.println("HCF :"+num1);
         System.out.println("LCM :"+LCM);
+
+//        int start = Math.max(num1,num2);
+//        int min = Math.min(num1,num2);
+//        for(int i = start;;i+=start){
+//            if(i%num1==0 && i%num2 == 0){
+//                System.out.println("LCM :"+i);
+//                break;
+//            }
+//        }
     }
 }
